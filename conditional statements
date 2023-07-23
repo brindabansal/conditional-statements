@@ -1,0 +1,32 @@
+#include<iostream>
+using namespace std;
+
+int main()/*
+{//this is if else code
+    int a;
+    
+
+    cin>>a;
+
+    if (a>0)
+    {
+        
+    cout<<"the number is positive"<<endl;}
+
+    else 
+    {cout<<"the number is negative"<<endl;}
+
+    //also remember that cin do not include \n \t or any space*/
+
+{//this will be if else else else code
+int a,b;
+cin>>a>>b;
+
+if (a>b)
+{cout<<"a is greater than b"<<endl;}
+else
+{cout<<"b is greater than a"<<endl;}
+else {cout<<"bla bla"<<endl;}
+return 0;
+}
+//other could be if elseif
